@@ -9,7 +9,7 @@ Subscription Management System API built with Exress & Node.js
 
 
 ## Features
-- Tate limiting and bot protection using Arcjet
+- Rate limiting and bot protection using Arcjet
 - Email reminders with node mailer with workflows using Upstash
 
 
